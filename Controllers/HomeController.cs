@@ -27,6 +27,13 @@ namespace SpotCheck1.Controllers
             return View();
         }
 
+        public IActionResult Angular()
+        {
+            ViewData["Message"] = "Angular Quickstart Demo";
+
+            return View();
+        }
+
         public IActionResult Error()
         {
             return View();
