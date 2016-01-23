@@ -9,7 +9,7 @@ import {OnInit} from 'angular2/core';
     template: `
         <h1>{{title}}</h1>
         
-        <h2>My Heros</h2>
+        <h2>My Heros..</h2>
         <ul class="heroes">
             <li *ngFor="#hero of heroes"
                 [class.selected]="hero === selectedHero" 

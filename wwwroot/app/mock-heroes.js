@@ -5,14 +5,14 @@ System.register([], function(exports_1) {
         execute: function() {
             exports_1("HEROES", HEROES = [
                 { "id": 10, "name": "Mr. Nice" },
-                { "id": 11, "name": "Mr. Neato" },
+                { "id": 11, "name": "Mr. Neat" },
                 { "id": 12, "name": "Narco" },
                 { "id": 13, "name": "Bombasto" },
                 { "id": 14, "name": "Celeritas" },
                 { "id": 15, "name": "Magneta" },
                 { "id": 16, "name": "RubberMan" },
                 { "id": 17, "name": "Dynama" },
-                { "id": 18, "name": "Dr IQ" },
+                { "id": 18, "name": "Dr IQz" },
                 { "id": 19, "name": "Magma" },
                 { "id": 20, "name": "Tornado" }
             ]);
